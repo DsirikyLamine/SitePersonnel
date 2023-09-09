@@ -77,7 +77,7 @@
 
     </section>
 
-    <section id="portfolio" class="py-5">
+    <section id="actualités" class="py-5">
       <div class="container">
         <h2 class="mb-0">Actualités</h2>
         <h3 class="fw-light fs-5">Sur tous les sports</h3>

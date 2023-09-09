@@ -7,3 +7,8 @@ CREATE TABLE `repertoire`.`message` ( `user_id` INT NOT NULL AUTO_INCREMENT , `n
 insert into `users` (`message`, `adresse_mail`, `nom`, `prenom`, `user_id`) values ('Bonjour', 'diarrassouba.lamine@exemple.com', 'Diarrassouba', 'Lamine', 1);
 insert into `users` (`message`, `adresse_mail`, `nom`, `prenom`, `user_id`) values ('Salut', 'diarrassouba.nabe@exemple.com', 'Diarrassouba', 'Nabé', 2);
 insert into `users` (`message`, `adresse_mail`, `nom`, `prenom`, `user_id`) values ('Bonsoir', 'diarrassouba.karitio@exemple.com', 'Diarrassouba', 'Karitio', 3);
+
+
+insert into `users` (`message`, `adresse_mail`, `nom`, `prenom`, `user_id`) values ('Bonjour', 'diarrassouba.lamine@exemple.com', 'Diarrassouba', 'Lamine', 1);
+insert into `users` (`message`, `adresse_mail`, `nom`, `prenom`, `user_id`) values ('Salut', 'diarrassouba.nabe@exemple.com', 'Diarrassouba', 'Nabé', 2);
+insert into `users` (`message`, `adresse_mail`, `nom`, `prenom`, `user_id`) values ('Bonsoir', 'diarrassouba.karitio@exemple.com', 'Diarrassouba', 'Karitio', 3);

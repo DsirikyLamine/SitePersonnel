@@ -1,0 +1,2 @@
+CREATE TABLE `repertoire`.`users` ( `user_id` INT NOT NULL AUTO_INCREMENT , `nom` VARCHAR(100) NOT NULL , `prenom` VARCHAR(100) NOT NULL , `adresse_mail` VARCHAR(200) NOT NULL , `message` VARCHAR(10000) NOT NULL , PRIMARY KEY (`user_id`)) ENGINE = InnoDB;
+CREATE TABLE `repertoire`.`message` ( `user_id` INT NOT NULL AUTO_INCREMENT , `nom` VARCHAR(100) NOT NULL , `prenom` VARCHAR(100) NOT NULL , `adresse_mail` VARCHAR(200) NOT NULL , `message` VARCHAR(10000) NOT NULL , PRIMARY KEY (`user_id`)) ENGINE = InnoDB;

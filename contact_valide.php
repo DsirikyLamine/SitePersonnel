@@ -9,9 +9,9 @@ try {
 
 $postData = $_POST;
 
-if (!isset($postData['name']) || !isset($postData['firstname']))
+if (!isset($postData['nom']) || !isset($postData['prenom']))
 {
-	echo('Il faut un nom et un prenom pour soumettre le formulaire.');
+	echo('Il faut un <strong>NOM</strong> et un <strong>PRENOM</strong> pour soumettre le formulaire.');
     return;
 }	
 

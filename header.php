@@ -11,13 +11,10 @@
                 <a class="nav-link" href="#expertise">Expertises</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#portfolio">Portfolio</a>
+                <a class="nav-link" href="#actualités">Actualités</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="#contact">Contacts</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="contact_valide.php">Lamine</a>
             </li>
         </ul>
   </div>

@@ -1,5 +1,5 @@
  <!-- Formulaire -->
- <div class="row">
+ 
               <h1>Contactez-Moi</h1>
               <form action="./contact_valide.php" method="post">
               <div class="col-6 my-2">
