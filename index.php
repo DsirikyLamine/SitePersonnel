@@ -151,7 +151,9 @@ Cette annonce marque la fin du suspense quant à l’avenir du Français, dont l
 « Je sens que Yamaha est sincèrement motivé »
 Ce qui pouvait laisser penser à un départ d’El Diablo. Des discussions auraient été entamées avec Suzuki, avant que l’on apprenne que l’écurie ne serait probablement plus engagée en Moto GP en 2023. Un accord a donc finalement été trouvé entre le pilote originaire de Nice et l’équipe officielle Yamaha pour un contrat de deux ans, jusqu’en 2024. 
 Et la marque japonaise semble lui avoir promis une moto plus performante pour les prochaines saisons. « On sait que Fabio s’investit à 100 % pour faire de son mieux et on lui a garanti que Yamaha en fera de même et s’investira dans les développements futurs pour s’assurer que l’on se batte pour le titre de champion du Monde de Moto GP dans les années à venir », explique Lin Jarvis, le patron de Yamaha. « Je crois au projet de Yamaha et je sens que Yamaha est sincèrement motivé », a de son côté réagit Fabio Quartararo. Les pilotes sont ce week-end à Barcelone pour le GP de Catalogne, neuvième rendez-vous de la saison.</p>
- </div>
+ 
+
+</div>
 </div>
 
     </section>
